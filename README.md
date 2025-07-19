@@ -29,7 +29,7 @@ Here's a concise summary of your README.md with visual concepts and scalability 
 ### 🚀 **Future Scalability with AI**
 
 **Automated Q&A Generation**  
-```mermaid
+```
 graph LR
     A[AI API] --> B(Generate Questions)
     A --> C(Validate Answers)
